@@ -1,5 +1,5 @@
 package main
-
+//вы
 import (
 	"fmt"
 )
